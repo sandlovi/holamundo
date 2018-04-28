@@ -8,6 +8,7 @@ public class HolaMundo {
 		System.out.println("Segundo usuario escribe nueva línea sin tener el BIEN proyecto actualizado");
 		System.out.println("Segundo usuario escribe nueva línea sin ACTUALIZAR");
 		System.out.println("Primer usuario hace un commit and push con esta nueva línea");
+		//Añadimos comentario
 		OtraClase rama=new OtraClase();
 		rama.metodoDeOtraRama();
 	}
